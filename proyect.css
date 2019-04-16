@@ -1,0 +1,36 @@
+header{
+	background-color: rgb(34, 211, 255);
+	font-size: 30;
+	border: dotted;
+}
+nav{
+	border:dotted;
+	background-color: rgb(38, 0, 255);
+	color: black;
+    font-size: 20;
+}
+.as{
+	border: groove;
+	background-color: rgb(38, 206, 228);
+    color: black;
+    font-size: 20;
+}
+a:hover{
+    border: 2px solid rgb(0, 238, 255); transition-duration: 0ms; padding: 10px; background-color: rgb(43, 226, 217);
+    }
+.asa{
+        text-align:color: coral;
+        background: pink;  
+        border: 2px solid black;
+        float: left; width: 15%; height: 198; 
+    }
+    table{
+        border: 3px solid black;
+        border-collapse:collapse;
+    }
+    tr{
+        border: 2px solid black;
+    }
+    td{
+        border: 2px solid black;
+    }
